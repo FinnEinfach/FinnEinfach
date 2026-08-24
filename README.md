@@ -10,6 +10,7 @@ I create custom Minecraft plugins and systems designed around the specific needs
 
 ## ⭐ Feedback
 Quality and reliability matter to me. If we’ve worked together before, I’d really appreciate you sharing your experience or checking out what others have said about working with me or about my projects.
+
 [![Feedback & Reviews](https://img.shields.io/badge/GitHub-Client_Reviews_%26_Feedback-2ea44f?style=for-the-badge&logo=github)](https://github.com/FinnEinfach/FinnEinfach/discussions/1)
 ---
 
